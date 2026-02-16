@@ -1,0 +1,1 @@
+class_name AudioMenu extends AudioStreamPlayer
